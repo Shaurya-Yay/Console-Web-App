@@ -1,0 +1,11 @@
+head{
+    font-weight: bold;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.plr-40{
+    padding-left:40px;
+    padding-right: 40px;
+}
